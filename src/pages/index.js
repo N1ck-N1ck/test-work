@@ -135,7 +135,7 @@ export default function Home() {
                 name="all_auto_responses"
                 className="block w-full"
             >
-              <span style={{ color: "rgb(255,255,255)" }}>Автоматические ответы</span>
+              <span style={{ color: "rgb(0,0,0)" }}>Автоматические ответы</span>
             </Checkbox>
           </div>
 
